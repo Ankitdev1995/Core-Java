@@ -1,0 +1,15 @@
+package Polymorphism;
+
+public class BankTest {
+public static void main(String[] args) {
+	Bank b=new Bank();
+	Bank b1=new AXISBank();
+	Bank b2=new SBIBank();
+	Bank b3=new ICICIBank();
+System.out.println("Bank Rate of Interest:"+ b.getRateOfInterest()+"%");
+System.out.println("AXIS Rate of Interest:"+b1.getRateOfInterest()+"%");
+System.out.println("SBI Rate of Interest:"+b2.getRateOfInterest()+"%");
+System.out.println("ICICI Rate of Interest"+b3.getRateOfInterest()+"%");
+
+}
+}

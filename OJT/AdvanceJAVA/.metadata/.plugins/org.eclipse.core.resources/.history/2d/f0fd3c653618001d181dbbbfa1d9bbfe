@@ -1,0 +1,10 @@
+package com.gm;
+
+import com.hello.B;
+
+public class C {
+public void m1C(){
+	B bb=new B(); 
+	bb.m1B();
+}
+}

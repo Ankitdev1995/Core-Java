@@ -1,0 +1,7 @@
+package com.gm;
+
+public class C {
+public void m1C(){
+	B bb=new B(); 
+}
+}

@@ -1,0 +1,8 @@
+package com.hello;
+
+public class B {
+public void m1B(){
+	A aa=new A();
+	
+}
+}

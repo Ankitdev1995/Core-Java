@@ -1,0 +1,16 @@
+package chapter1;
+//initialization of object by using method
+public class Student {
+String name;
+int age;
+String Course;
+
+void study(String n,int a,String c){
+
+	/*n=name;
+	a=age;
+	c=Course;*/
+	System.out.println(n+" "+a+" "+c);
+}
+
+}

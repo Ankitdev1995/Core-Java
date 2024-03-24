@@ -1,0 +1,8 @@
+package Logic;
+
+public class A {
+float area(float a,float b){
+float r=3.14f*a*b;
+return r;
+}
+}

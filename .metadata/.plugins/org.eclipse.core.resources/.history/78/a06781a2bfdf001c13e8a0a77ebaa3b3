@@ -1,0 +1,10 @@
+package Logic;
+
+public class Test {
+public static void main(String[] args) {
+	A a1=new A();
+	float sum=a1.area(40,40);
+	System.out.println(sum);
+	
+}
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Logic.Number_type&apos; to &apos;Sum_Of_Digit&apos;&#x0D;&#x0A;- Original project: &apos;basic program&apos;&#x0D;&#x0A;- Original element: &apos;Logic.Number_type&apos;&#x0D;&#x0A;- Renamed element: &apos;Logic.Sum_Of_Digit&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Number_type&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Logic{Number_type.java[Number_type" matchStrategy="1" name="Sum_Of_Digit" qualified="false" references="true" similarDeclarations="false" stamp="1654228675794" textual="false" version="1.0"/>
+</session>

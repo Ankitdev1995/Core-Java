@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;class_method.Exercise2&apos; to &apos;AA&apos;&#x0D;&#x0A;- Original project: &apos;method_call&apos;&#x0D;&#x0A;- Original element: &apos;class_method.Exercise2&apos;&#x0D;&#x0A;- Renamed element: &apos;class_method.AA&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Exercise2&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;class_method{Exercise2.java[Exercise2" matchStrategy="1" name="AA" qualified="false" references="true" similarDeclarations="false" stamp="1652066146478" textual="false" version="1.0"/>
+</session>

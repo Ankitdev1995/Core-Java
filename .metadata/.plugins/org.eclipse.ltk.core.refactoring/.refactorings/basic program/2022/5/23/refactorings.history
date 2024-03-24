@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Logic.Abc&apos; to &apos;A&apos;&#x0D;&#x0A;- Original project: &apos;basic program&apos;&#x0D;&#x0A;- Original element: &apos;Logic.Abc&apos;&#x0D;&#x0A;- Renamed element: &apos;Logic.A&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Abc&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Logic{Abc.java[Abc" matchStrategy="1" name="A" qualified="false" references="true" similarDeclarations="false" stamp="1653818583276" textual="false" version="1.0"/>
+</session>

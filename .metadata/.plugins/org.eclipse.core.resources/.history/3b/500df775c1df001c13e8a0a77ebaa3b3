@@ -1,0 +1,18 @@
+package Logic;
+
+public class Test {
+public static void main(String[] args) {
+	int a=100;
+	int b=200;
+	boolean check=a>b;
+	System.out.println(check);
+	if (check){
+		System.out.println("A is greater");
+	}
+	else if(b>a){
+		System.out.println("B is greater");
+		
+	}
+	
+}
+}

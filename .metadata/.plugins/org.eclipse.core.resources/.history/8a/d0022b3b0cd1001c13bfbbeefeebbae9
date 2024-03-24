@@ -1,0 +1,14 @@
+package loop;
+//to print factorial of a numbers
+public class Demo23 {
+	public static void main(String[] args) 
+	{
+		int i , sum=1;
+		int m =6;
+		for(i=1; i<=m; i=i+1)
+		{
+		sum=sum*i;
+		}
+		System.out.println(sum);
+		}
+	}
